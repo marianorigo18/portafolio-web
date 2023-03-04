@@ -48,7 +48,7 @@ img{
 .grid__connect{
     display: flex;
     flex-direction: column;
-    font-size: 12px;
+    font-size: 17px;
 }
 .grid__connect a{
     color: #626567;
